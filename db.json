@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "fe91",
+      "firstName": "ARYAN",
+      "lastName": "YADAV",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Surat",
+      "email": "ak1@gmailcom",
+      "phone": "8000718603",
+      "hospital": "City Hospital",
+      "password": "23",
+      "cpass": "23"
+    },
+    {
+      "id": "5249",
+      "firstName": "din",
+      "lastName": "xz",
+      "email": "aryanak4706@gmail.com",
+      "phone": "8000718603",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Surat",
+      "hospital": "hachd",
+      "password": "1",
+      "cpass": "1"
+    },
+    {
+      "id": "3b1c",
+      "firstName": "di1",
+      "lastName": "xz4",
+      "email": "dss@gmail.com",
+      "phone": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "hospital": "jsafjf",
+      "password": "4",
+      "cpass": "4"
+    },
+    {
+      "id": "f6e9",
+      "firstName": "sb",
+      "lastName": "jf",
+      "email": "arohi1@gmail.com",
+      "phone": "8000718603",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "hospital": "hachd",
+      "password": "4",
+      "cpass": "4"
+    },
+    {
+      "id": "f952",
+      "firstName": "nznx",
+      "lastName": "ncvnc",
+      "email": "jenishghadiya60@gmail.com",
+      "phone": "8000718603",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Rajkot",
+      "hospital": "jasf",
+      "password": "5",
+      "cpass": "5"
+    }
+  ],
+  "admin": [
+    {
+      "id": "2217",
+      "username": "aryan",
+      "email": "dd@gmai.com",
+      "password": "1",
+      "cpass": "1"
+    }
+  ],
+  "hospitals": [
+    {
+      "id": "e9c1",
+      "hospitalName": "jasf",
+      "hospitalAddress": "jsfj",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "zipcode": "394006"
+    },
+    {
+      "id": "5315",
+      "hospitalName": "h",
+      "hospitalAddress": "Madhuram Circle",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Surat",
+      "zipcode": "394006"
+    },
+    {
+      "id": "8a88",
+      "hospitalName": "hachd",
+      "hospitalAddress": "hdvhd",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "zipcode": "394006"
+    },
+    {
+      "id": "aeaf",
+      "hospitalName": "jsafjf",
+      "hospitalAddress": "jsfj",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Surat",
+      "zipcode": "23211"
+    }
+  ],
+  "pusers": [
+   
+    {
+      "id": "ff8e",
+      "firstName": "Arohi",
+      "lastName": "YADAV",
+      "email": "arohi1@gmail.com",
+      "phone": "8000718603",
+      "age": "23",
+      "height": "31",
+      "weight": "34",
+      "gender": "Female",
+      "bloodGroup": "b+",
+      "dob": "2024-10-18",
+      "country": "India",
+      "state": "Gujarat",
+      "city": "Surat",
+      "address": "Madhuram Circle",
+      "password": "23",
+      "cpass": "23"
+    }
+  ]
+}

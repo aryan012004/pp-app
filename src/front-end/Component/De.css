@@ -1,0 +1,103 @@
+/* General */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .dashboard {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 250px;
+    background-color: #f7f9fc;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .sidebar-header h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .sidebar-menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar-menu li {
+    margin: 20px 0;
+  }
+  
+  .sidebar-menu .appointment-btn,
+  .sidebar-menu .logout-btn {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  /* Main Content */
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  .header-info span {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .user-profile {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-profile span {
+    margin-right: 10px;
+  }
+  
+  .patient-details {
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .details-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .details-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .details-content img {
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .sections {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .medical-history, .prescriptions {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 48%;
+  }
+  

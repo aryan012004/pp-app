@@ -1,0 +1,103 @@
+.monitor-billing-container {
+    padding: 20px;
+  }
+  
+  .table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .header input[type="file"] {
+    margin-right: auto;
+  }
+  
+  .buttons {
+    display: flex;
+  }
+  
+  .btn {
+    display: inline-flex;
+    align-items: center;
+  }
+  .modal-body {
+    font-size: 14px;
+    padding: 20px;
+  }
+  
+  .invoice-header {
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 15px;
+  }
+  
+  .modal-footer {
+    border-top: 1px solid #e0e0e0;
+    padding-top: 15px;
+  }
+  .popup-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 700px;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+  
+  .popup-content {
+    padding: 20px;
+  }
+  
+  .popup-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #f0f0f0;
+    margin-bottom: 10px;
+  }
+  
+  .popup-body {
+    padding: 20px;
+  }
+  
+  .patient-details ul,
+  .billing-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  .popup-data {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+   
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+  
+  
+  .patient-details ul li,
+  .billing-info ul li {
+    margin-bottom: 10px;
+  }
+  
+  .totals {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .close-btn {
+    background-color: #ff4d4d;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  
+  .hospital-details {
+    text-align: left;
+
+  }
+ 

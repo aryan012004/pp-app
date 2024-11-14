@@ -1,0 +1,41 @@
+/* Date Picker styling */
+.date-picker input {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 20px;
+
+  
+  }
+  
+  .btn-primary {
+    background-color: #00a6ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0086cc;
+  }
+  
+  /* Upload Section */
+  .upload-section {
+    margin-top: 15px;
+  }
+  
+  .upload-label {
+    display: inline-block;
+    background-color: #00a6ff;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .upload-label:hover {
+    background-color: #0086cc;
+  }
+  

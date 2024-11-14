@@ -1,0 +1,27 @@
+.dashboard-wrapper {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .header {
+    background-color: #f8f9fa;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sidebar {
+    width: 250px;
+    height: calc(100vh - 56px); /* Full height minus header */
+    position: sticky;
+    top: 0; 
+  }
+  
+  .content-container {
+    flex: 1;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
